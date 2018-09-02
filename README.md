@@ -3,7 +3,8 @@
 
 
 Using NLP/ML,can we train a model to forecast the earnings reports?
-Can we have positive returns using the forecasts? What is the associated Sharpe Ratio of each strategy?
+Can we have positive returns using the forecasts? 
+
 
 
 The data is
