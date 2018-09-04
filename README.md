@@ -3,6 +3,7 @@
 
 
 Using NLP/ML,can we train a model to forecast the earnings reports?
+Can we have positive returns using the forecasts? 
 
 
 
@@ -40,7 +41,7 @@ There are 2 features, closing the trade the next day or waiting friday.
 
 
 Conclusions: +
--the model we trained "work", however most of our returns burn in fees or into the option spread. 
--it is still an ongoing project, new things will be added later, optimizations and tricks to reduce fees. Or managing files with an sql server to take care of the increasingly big number of csv files.
+-the model we trained "works", however most of our returns burn in fees or into the option spread. 
+-it is still an ongoing project, new things will be added later, optimizations and tricks to reduce fees. Or managing files with an sql server to take care of the increasing number of csv files.
 
 
