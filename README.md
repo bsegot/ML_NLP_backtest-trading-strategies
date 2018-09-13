@@ -62,9 +62,10 @@ However some rise with positive returns.
 ![](Images/occurence_close_up.png)
 
 
-
 Ultimately, the only positive return strategy has differencies among them. Shown on previous plots, the higher the accuracy, the higher the average return.
 
+
+![](Images/returns_by_strategie.png)
 
 ![](Images/zoom_accuracies_positive.png)
 
