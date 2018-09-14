@@ -26,6 +26,8 @@ The more we creates prediction the more the 'true' accuracy of our model reveals
 
 ![](Images/converging_accuracies.png)
 
+![](Images/converging_accuracies_2.png)
+
 
 The backtest include 4 strategies 
 #strategy 1: long/short stocks-1 day or -till friday
