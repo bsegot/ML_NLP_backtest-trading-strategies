@@ -77,5 +77,5 @@ Further:
 By adding filter to the signal delivered by the ML models we can optimize the to some extend the returns. For exemple adding a moving average filter, or others.. Exemple with a 10day MA filter below
 
 
-![](Images/backtest_filtered.png)
+![](Images/backtest_filtered_2.png)
 ![](Images/filtered_returns.png)
