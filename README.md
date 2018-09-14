@@ -73,4 +73,9 @@ Conclusions: +
 -the model we trained "works", however most of our returns burn in fees or into the option spread. 
 -The 'real' advantage of our machine learning prediction is almost null (3-4 % better than random at best, this competes with the fees and most of the time don't compensate it)
 
+Further:
+By adding filter to the signal delivered by the ML models we can optimize the to some extend the returns. For exemple adding a moving average filter, or others.. Exemple with a 10day MA filter below
 
+
+![](Images/backtest_filtered.png)
+![](Images/filtered_returns.png)
