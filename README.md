@@ -10,7 +10,7 @@ Can we have positive returns using the forecasts?
 The data is
 1- recent articles about the stock
 2- twits about the stock the day of the earning 
-
+3- Options chains of the stock
 
 We have 6 features: 3 for each data source
 -the mean of the sentiment score of the sentences
